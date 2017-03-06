@@ -1,7 +1,7 @@
 
 # Platform configuration
 
-
+s
 In this section you will learn what the Platform setup tool is and how to use it to initialize and configure the Bonita BPM Platform.
 
 
